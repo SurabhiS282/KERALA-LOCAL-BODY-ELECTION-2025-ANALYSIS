@@ -1,6 +1,6 @@
 # KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS
 
-##1. Project Overview
+## 1. Project Overview
        This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" using data analytics techniques to understand voting patterns, party performance, and regional trends. The objective is to convert raw election data into meaningful insights through data preparation, analysis, and visualization.The analysis helps in identifying how different political parties performed across local bodies and how voter participation varied across regions.
 
 2. Objectives
