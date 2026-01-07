@@ -39,7 +39,7 @@ This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" us
 7. Project Structure
    
 9.  Screenshots
-![Power BI Dashboard Overview]()
+![Power BI Dashboard Overview](https://github.com/SurabhiS282/KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/blob/main/Snapshot%20of%20Dashboard.png)
   
 11. Results
 The analysis provides clear insights into voter participation and party performance across Kerala local bodies. Interactive dashboards and visualizations help present complex election data in an easy-to-understand format.
