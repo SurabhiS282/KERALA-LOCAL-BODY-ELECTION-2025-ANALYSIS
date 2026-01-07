@@ -9,9 +9,11 @@ This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" us
 - Identify key trends in seat distribution  
 - Visualize election outcomes for better interpretation  
 - Demonstrate practical application of data analytics tools
-- 
+   
 3. Dataset
-- Data collected from 
+- Data collected from official and publicly available sources, primarily:
+   - Kerala State Election Commission (KSEC) – official election results and statistics
+   - Public election reports and dashboards released after the Kerala Local Body Election 2025  
 - Includes:
   - Voter turnout
   - Seat distribution
@@ -24,11 +26,11 @@ This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" us
 - Power BI (for interactive dashboards)
 
 5. Methodology
-1. Data collection from reliable sources  
-2. Dataset preparation  
-3. Exploratory Data Analysis (EDA)  
-4. Visualization of key metrics  
-5. Interpretation of results  
+- Data collection from reliable sources    
+- Dataset preparation  
+- Exploratory Data Analysis (EDA)  
+- Visualization of key metrics  
+- Interpretation of results  
 
 6. Key Insights
 - Significant variation in voter turnout across regions  
@@ -37,17 +39,24 @@ This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" us
 - Data-driven visualization provides better clarity than raw numbers  
 
 7. Project Structure
-   
-9.  Screenshots
+   KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/
+├── data/
+├── notebooks/
+├── powerbi/
+├── visuals/
+├── report/
+└── README.md
+
+8.  Screenshots & Reports
 ![Power BI Dashboard Overview](https://github.com/SurabhiS282/KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/blob/main/Snapshot%20of%20Dashboard.png)
-  
-11. Results
+![ViewReport]()   
+10. Results
 The analysis provides clear insights into voter participation and party performance across Kerala local bodies. Interactive dashboards and visualizations help present complex election data in an easy-to-understand format.
 
-12. Conclusion
+11. Conclusion
 This project demonstrates the effective use of data analytics and visualization tools to analyze real-world election data. It highlights the importance of data-driven insights in understanding electoral behavior and regional trends.
 
-13. Author
+12. Author
 Surabhi Suresh  
 MCA Graduate | Data Analyst Intern@ALRIC INFOTECH PVT LTD
 
