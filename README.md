@@ -1,6 +1,6 @@
 # KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS
 
-1. Project Overview
+##1. Project Overview
        This project focuses on the analysis of the "KERALA LOCAL BODY ELECTION 2025" using data analytics techniques to understand voting patterns, party performance, and regional trends. The objective is to convert raw election data into meaningful insights through data preparation, analysis, and visualization.The analysis helps in identifying how different political parties performed across local bodies and how voter participation varied across regions.
 
 2. Objectives
@@ -38,7 +38,7 @@
    - Urban and rural areas show different voting behavior patterns  
    - Data-driven visualization provides better clarity than raw numbers  
 
-7. Project Structure
+##7. Project Structure
    KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/
     ├── data/
     ├── notebooks/
@@ -47,16 +47,16 @@
     ├── report/
     └── README.md
 
-8.  Screenshots & Reports
+##8.  Screenshots & Reports
      ![Power BI Dashboard Overview](https://github.com/SurabhiS282/KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/blob/main/Snapshot%20of%20Dashboard.png)
      ![ViewReport](https://github.com/SurabhiS282/KERALA-LOCAL-BODY-ELECTION-2025-ANALYSIS/blob/main/KERALA%20LOCAL%20BODY%20ELECTION%20ANALYSIS%202025%20Report.pdf)   
-9. Results
+##9. Results
      The analysis provides clear insights into voter participation and party performance across Kerala local bodies. Interactive dashboards and visualizations help present complex election data in an easy-to-understand format.
 
-10. Conclusion
+##10. Conclusion
     This project demonstrates the effective use of data analytics and visualization tools to analyze real-world election data. It highlights the importance of data-driven insights in understanding electoral behavior and regional trends.
 
-11. Author
+##11. Author
 Surabhi Suresh  
 MCA Graduate | Data Analyst Intern@ALRIC INFOTECH PVT LTD
 
